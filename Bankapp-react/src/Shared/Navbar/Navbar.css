@@ -1,0 +1,24 @@
+.heading{
+    background: rgb(243, 219, 112);
+    padding-top: 1rem;
+    color: rgb(105, 105, 248);
+}
+
+.navbar{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family:Gumela;
+    background: rgb(99, 175, 99);
+    color: white;
+}
+
+.navbar-links{
+    gap:10rem;
+    font-size: large;
+    font-weight: bolder;
+    justify-content: end;
+}
+
+.bg-body-tertiary{
+    width: 86rem;
+}

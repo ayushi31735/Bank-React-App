@@ -1,0 +1,10 @@
+.dashboard{
+    height: 5rem;
+    width: 85rem;
+    padding-left: 22rem;
+    padding-top: 1rem;
+    justify-content: center;
+    align-items: center;
+    background: powderblue;
+    color: rgb(81, 81, 250);
+}

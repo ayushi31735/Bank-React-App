@@ -1,0 +1,35 @@
+.b-addform{
+    justify-content: center;
+    padding-left: 20rem;
+    padding-right: 20rem;
+    height: 20rem;
+    width: 100%;
+    background: powderblue;
+}
+
+.formforbank{
+    display: flex;
+    flex-direction: column;
+    background: powderblue;
+}
+
+.pagination{
+    padding-left: 20%;
+    margin-top: 2rem;
+    background: powderblue;
+}
+
+.display-table{
+    justify-content: center;
+    padding-left: 20rem;
+    padding-right: 20rem;
+    background: powderblue;
+}
+
+.f-pagesize{
+    width: 15rem;
+    margin-left: 24rem;
+    margin-bottom: 3rem;
+    background: powderblue;
+
+}

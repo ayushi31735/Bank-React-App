@@ -1,0 +1,22 @@
+.addformCustomer{
+    justify-content: center;
+    padding-left: 20rem;
+    padding-right: 20rem;
+    height: 30rem;
+    width: 100%;
+    background: powderblue;
+}
+
+.pagination{
+    padding-left: 20%;
+    margin-top: 0.5rem;
+    background: powderblue;
+}
+
+.f-pagesize{
+    width: 15rem;
+    margin-left: 26rem;
+    margin-bottom: 3rem;
+    background: powderblue;
+
+}

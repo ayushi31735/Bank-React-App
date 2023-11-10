@@ -1,0 +1,11 @@
+.create-profile{
+    background: powderblue;
+    height: 40rem;
+    width: 85rem;
+}
+
+.profile-form{
+    padding-top: 2rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+}

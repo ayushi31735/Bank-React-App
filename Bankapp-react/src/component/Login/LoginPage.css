@@ -1,0 +1,36 @@
+.u-login{
+    justify-content: center;
+    padding-top: 2rem;
+    padding-left: 20rem;
+    padding-right: 20rem;
+    height: 41rem;
+    width: 100%;
+    background:  powderblue;
+}
+
+.card{
+    box-shadow: 10px 10px 5px gray;
+    width: 50%;
+    margin-left: 9rem;
+    margin-top: 3rem;
+}
+
+.btn{
+    align-items: center;
+    justify-content: center;
+    margin-left: 38%;
+}
+
+.customer-registeration{
+    justify-content: center;
+    padding-top: 2rem;
+    padding-left: 20rem;
+    padding-right: 20rem;
+    height: 38rem;
+    width: 100%;
+    background: powderblue;
+}
+
+.card-header{
+    color: rgb(118, 118, 240);
+}

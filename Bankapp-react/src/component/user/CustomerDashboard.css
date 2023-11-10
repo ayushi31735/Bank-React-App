@@ -1,0 +1,15 @@
+.dashboarduser{
+    height: 35rem;
+    width: 85.2rem;
+    padding-left: 20rem;
+    padding-top: 2rem;
+    justify-content: center;
+    align-items: center;
+    background: powderblue;
+    color: rgb(81, 81, 250);
+}
+
+.detail-form{
+    padding-right: 20rem;
+
+}

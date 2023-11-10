@@ -1,0 +1,32 @@
+.addformAccount{
+    justify-content: center;
+    padding-left: 20rem;
+    padding-right: 20rem;
+    padding-top: 2rem;
+    height: 84rem;
+    width: 100%;
+    background: powderblue;
+}
+
+.pagination{
+    padding-left: 20%;
+    margin-top: 2rem;
+    background: powderblue;
+}
+
+.f-pagesize{
+    width: 15rem;
+    margin-left: 24rem;
+    margin-bottom: 3rem;
+    background: powderblue;
+
+}
+
+.account-page{
+    height: 30rem;
+}
+
+.display-table{
+    height: 26.2rem;
+    padding-left: 18rem;
+}
